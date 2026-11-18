@@ -1,4 +1,4 @@
-# ⚡ ESP32-S3 Embedded Firmware & Systems Engineering Lab
+# ESP32-S3 Embedded Firmware & Systems Engineering Lab
 
 [![C](https://img.shields.io/badge/Language-C%20(C99%2FC11)-00599C.svg?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS-red.svg)](https://www.freertos.org/)
