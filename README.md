@@ -12,7 +12,7 @@ O ecossistema abrange desde o design de diagramas esquemáticos e arquiteturais 
 
 ---
 
-## 🛠️ Stack Tecnológica & Periféricos
+## Stack Tecnológica & Periféricos
 
 * **Hardware / Core**: Espressif ESP32-S3 (Xtensa Dual-Core 32-bit LX7).
 * **Sistema Operacional em Tempo Real**: FreeRTOS (Tasks, Queues, Timers, Semaphores).
@@ -25,7 +25,7 @@ O ecossistema abrange desde o design de diagramas esquemáticos e arquiteturais 
 
 ---
 
-## 🏗️ Mapa de Módulos e Simulações
+## Mapa de Módulos e Simulações
 
 Todos os projetos contam com simulações funcionais na nuvem através do Wokwi:
 
@@ -44,7 +44,7 @@ Todos os projetos contam com simulações funcionais na nuvem através do Wokwi:
 
 ---
 
-## 🔌 Arquitetura do Sistema Integrado (Módulo 10)
+## Arquitetura do Sistema Integrado (Módulo 10)
 
 ```mermaid
 graph TD
@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-## 💻 Como Executar Localmente via ESP-IDF
+## Como Executar Localmente via ESP-IDF
 
 ### Pré-requisitos
 * **ESP-IDF v5.x** configurado e instalado no sistema.
