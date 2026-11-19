@@ -95,7 +95,7 @@ idf.py -p (PORTA_SERIAL) flash monitor
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Caio Dantas**  
 * Engenheiro de Software / Desenvolvedor de Firmware  
